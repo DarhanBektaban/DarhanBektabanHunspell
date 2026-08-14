@@ -104,6 +104,7 @@ otbasy
 pyshaq
 qajrat
 qalam
+qalypty
 qan
 qar
 qara
