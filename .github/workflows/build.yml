@@ -1,0 +1,35 @@
+name: Auto Build Dictionary
+
+on:
+  push:
+    paths:
+      - 'input.txt'
+      - 'build.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repozjtorjjdi zhuikteuu
+        uses: actions/checkout@v4
+
+      - name: Python ornatuu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Suoizdikti zhjnaqtauu (build.py)
+        run: |
+          python build.py
+
+      - name: Zhagnarghan suoizdikterdi saqtauu zhaine zhiberuu
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add DarhanBektaban.dic words.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update dictionary [skip ci]" && git push)
