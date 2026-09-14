@@ -171,6 +171,7 @@ agnyz
 aidemi
 aidil
 aidildik
+aijel
 aijgili
 aike
 aikeluu
@@ -400,7 +401,9 @@ birligin
 birlik
 birlikke
 biz
+bizdi
 bizdign
+bizge
 bjdaj
 bjik
 bjikterdi
@@ -434,6 +437,7 @@ bujyruu
 bul
 bult
 buoilek
+buoilim
 buoilshekteuu
 buoiluu
 buoirik
@@ -479,6 +483,7 @@ emdeuu
 emes
 engizuu
 enuu
+er
 erezhe
 erik
 erin
@@ -496,6 +501,7 @@ esepteuu
 eseptik
 eshki
 esik
+esimdikter
 eske
 eskeruu
 eskiruu
@@ -649,6 +655,7 @@ lajyq
 las
 lastanuu
 madaqtauu
+maghan
 magndaj
 magnyzdy
 mahabbat
@@ -669,6 +676,7 @@ mejirimdi
 mektep
 memleket
 men
+meni
 menign
 mereji
 mereke
@@ -704,6 +712,7 @@ negizgi
 nyghajtuu
 nyghajuu
 nyq
+oghan
 ogn
 ognaj
 ognaluu
@@ -713,8 +722,11 @@ ojlap
 ojlauu
 ol
 olar
+olardy
 olardygn
+olargha
 on
+ony
 onygn
 oquu
 oquulyq
@@ -910,6 +922,7 @@ sabylyp
 sabyr
 sabyrgha
 sabyrly
+saghan
 saghat
 saghynuu
 sailem
@@ -949,6 +962,7 @@ sekirip
 sekiruu
 sen
 sendiruu
+seni
 senign
 senim
 senimmen
@@ -1218,6 +1232,7 @@ tynyshtyq
 tyrnaq
 tyrysuu
 ughuu
+ughym
 ughyp
 uideris
 uigniluu
@@ -1288,9 +1303,16 @@ uoitirik
 uoitken
 uoituu
 uoiz
+uoizderi
+uoizderigniz
+uoizderin
 uoizen
 uoizgeris
 uoizgertuu
+uoizi
+uoizign
+uoizim
+uoizimiz
 urpaq
 uruu
 ushaq
@@ -1320,6 +1342,7 @@ ysuu
 yzalanuu
 zagn
 zagndy
+zat
 zejnet
 zerdeleuu
 zertteuu
