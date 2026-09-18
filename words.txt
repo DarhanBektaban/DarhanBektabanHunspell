@@ -532,6 +532,7 @@ habardar
 habarlauu
 halyq
 halyqqa
+hanym
 ilesuu
 ilgeri
 ilgerileuu
@@ -598,6 +599,7 @@ kiruu
 kishi
 kishipejil
 kishirejuu
+kishkentaj
 kisilik
 kitap
 kjim
@@ -828,6 +830,7 @@ qara
 qaragnghy
 qarama
 qarastyruu
+qaratpa
 qarauu
 qarshygha
 qarsy
@@ -1459,6 +1462,7 @@ zhiberuu
 zhiger
 zhigerlendiruu
 zhigerli
+zhigit
 zhignishke
 zhji
 zhjirkenuu
