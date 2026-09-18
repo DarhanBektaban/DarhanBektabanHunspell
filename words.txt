@@ -213,6 +213,7 @@ algha
 alghashqy
 alghys
 almastyruu
+alpys
 alty
 aluu
 alyp
@@ -399,6 +400,7 @@ bilimge
 biluu
 bir
 biraq
+birden
 biriktiruu
 birligin
 birlik
@@ -464,6 +466,7 @@ dala
 damuu
 dauulasuu
 de
+dejingi
 dem
 demaluu
 demalys
@@ -483,6 +486,7 @@ egnbekqor
 egnbekteuu
 eki
 el
+eluu
 emdeluu
 emdeuu
 emes
@@ -763,6 +767,7 @@ otan
 otandy
 otbasy
 otyruu
+otyz
 ozuu
 paik
 pajda
@@ -917,6 +922,7 @@ quuyp
 qylmauu
 qyluu
 qymyz
+qyryq
 qys
 qyshqyl
 qysqa
@@ -978,6 +984,7 @@ sebep
 segiz
 sekirip
 sekiruu
+seksen
 sen
 sendiruu
 seni
@@ -1186,6 +1193,7 @@ tolyghuu
 tolyq
 ton
 toptary
+toqsan
 toqtatpauu
 toqtatuu
 toqtatyp
@@ -1456,6 +1464,7 @@ zheter
 zheti
 zhetiluu
 zhetkizuu
+zhetpis
 zhetuu
 zheuu
 zhiberuu
@@ -1468,6 +1477,7 @@ zhji
 zhjirkenuu
 zhjnap
 zhjnauu
+zhjyrma
 zhobalauu
 zhoghaltuu
 zhoghaluu
@@ -1496,6 +1506,7 @@ zhuiris
 zhuiruu
 zhuiz
 zhuizege
+zhuizge
 zhuizuu
 zhuldyz
 zhumsaq
