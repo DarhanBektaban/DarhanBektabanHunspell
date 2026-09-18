@@ -190,6 +190,7 @@ ajagndauu
 ajan
 ajaq
 ajaqtan
+ajaqtauu
 ajaz
 ajghaq
 ajlyq
@@ -280,6 +281,7 @@ auudaruu
 auuyl
 auuyr
 auuyruu
+auuystyruu
 auuyz
 az
 aza
@@ -423,6 +425,7 @@ bol
 bolady
 bolashaqqa
 boluu
+boluuy
 bolygnyz
 boran
 borysh
@@ -468,6 +471,7 @@ daipter
 dairuumeni
 daistuirin
 daiuulet
+dajyndauu
 dala
 damuu
 dauulasuu
@@ -559,6 +563,7 @@ ishki
 ishuu
 isine
 iske
+isteuu
 izdenimpaz
 izdeuu
 izgilikke
@@ -648,6 +653,7 @@ kuoil
 kuoildenegn
 kuoilegnke
 kuoilik
+kuoilikti
 kuoimek
 kuoimektesuu
 kuoindiruu
@@ -721,6 +727,7 @@ myghym
 mygn
 mygnynshy
 mynauu
+mys
 mysal
 mysyq
 naitjzhe
@@ -744,6 +751,7 @@ oj
 ojanuu
 ojlap
 ojlauu
+ojnauu
 ol
 olar
 olardy
@@ -853,6 +861,7 @@ qaratpa
 qarauu
 qarshygha
 qarsy
+qarsylyq
 qaryndas
 qaryndasty
 qashan
@@ -882,6 +891,7 @@ qjyn
 qjyndyqtardy
 qjyp
 qognyr
+qognyrauu
 qoj
 qoja
 qojan
@@ -946,6 +956,7 @@ qysuu
 qyz
 qyzmet
 qyzyghuu
+qyzyghuushylyq
 qyzyl
 qyzyq
 raqmet
@@ -1020,12 +1031,14 @@ sezim
 sezinuu
 sezuu
 shabuu
+shaghymdanuu
 shagnyraq
 shaikirt
 shaj
 shajqaluu
 shalbar
 shaldyghuu
+shaluu
 shanyshqy
 shapan
 shapqylauu
@@ -1126,7 +1139,9 @@ tabuu
 tabys
 tabysqa
 tagn
+tagndauu
 tagnghaluu
+tagnghy
 tailim
 tairbje
 tairbjeleuu
@@ -1157,6 +1172,7 @@ tanyp
 tanystyruu
 tanysuu
 tanytuu
+tapsyrys
 tar
 tarauu
 tarazylauu
@@ -1236,6 +1252,7 @@ tuirlendiruu
 tuis
 tuisinikti
 tuisinuu
+tuiski
 tuisuu
 tuitin
 tuizeluu
@@ -1243,6 +1260,7 @@ tuizetuu
 tuizeuu
 tuizuu
 tuman
+tuoibelesuu
 tuoiguu
 tuoil
 tuoileuu
@@ -1397,6 +1415,7 @@ yzalanuu
 zagn
 zagndy
 zat
+zatty
 zejnet
 zerdeleuu
 zertteuu
@@ -1533,6 +1552,7 @@ zhuijeleuu
 zhuire
 zhuirek
 zhuirekte
+zhuirgizuu
 zhuiris
 zhuiruu
 zhuiz
