@@ -249,6 +249,8 @@ anyq
 apa
 aparuu
 apta
+aptada
+aptasyna
 aq
 aqquu
 aqshyl
@@ -263,6 +265,7 @@ aram
 arasynda
 arbauu
 ardaqty
+arghy
 arly
 arman
 armanyna
@@ -420,6 +423,7 @@ bejimdeluu
 bejmailim
 bejneleuu
 bejnet
+bejsenbi
 bekemdeuu
 bekituu
 belbeuu
@@ -465,6 +469,7 @@ bjdaj
 bjik
 bjikterdi
 boj
+bojy
 bol
 bolady
 bolashaqqa
@@ -539,6 +544,7 @@ dertke
 dirildeuu
 dos
 dostyq
+duijsenbi
 duinjege
 durys
 dushpandyq
@@ -716,6 +722,9 @@ kuimain
 kuimaindanuu
 kuimis
 kuin
+kuindelikti
+kuinderi
+kuini
 kuirese
 kuiresuu
 kuirish
@@ -1097,11 +1106,13 @@ saghan
 saghat
 saghynuu
 sailem
+sairsenbi
 sait
 saittilik
 saiuule
 sajahat
 sajahattauu
+sajyn
 saldar
 salmaghyn
 salmaqtauu
@@ -1136,11 +1147,13 @@ sebeptermen
 segiz
 segizden
 segizinshi
+sejsenbi
 sekirip
 sekiruu
 seksen
 sekseninshi
 sen
+senbi
 sendiruu
 seni
 senign
@@ -1686,6 +1699,7 @@ zhegniske
 zhegnuu
 zhek
 zhekkuoiruu
+zheksenbi
 zhel
 zhem
 zhemshuoip
@@ -1753,6 +1767,7 @@ zhuizge
 zhuizinshi
 zhuizuu
 zhuldyz
+zhuma
 zhumsaq
 zhumsauu
 zhumys
