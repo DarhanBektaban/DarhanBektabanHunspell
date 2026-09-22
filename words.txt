@@ -408,6 +408,8 @@ basuu
 basyluu
 basyp
 bata
+batqanda
+batuuy
 batyl
 batyldyq
 batyr
@@ -533,6 +535,7 @@ dauulasuu
 de
 degenin
 degenmen
+dejin
 dejingi
 dem
 demaluu
@@ -683,6 +686,7 @@ keshirigniz
 keshirim
 keshirimdi
 keshiruu
+keshke
 keshki
 kesuu
 ket
@@ -724,7 +728,9 @@ kuimis
 kuin
 kuindelikti
 kuinderi
+kuindiz
 kuini
+kuinnign
 kuirese
 kuiresuu
 kuirish
@@ -882,6 +888,7 @@ ornyna
 ornynan
 ornyqtyruu
 ortasy
+ortasyna
 ortasynda
 oryndauu
 oshaq
@@ -1212,6 +1219,7 @@ shydauu
 shygharmauu
 shygharuu
 shyghuu
+shyghuuy
 shygndaluu
 shygndargha
 shyn
@@ -1298,6 +1306,7 @@ taghy
 tagn
 tagndanuu
 tagndauu
+tagnertegn
 tagnghaluu
 tagnghy
 tailim
@@ -1319,6 +1328,7 @@ taldauu
 talpynuu
 talqygha
 talqylauu
+taltuis
 tamaq
 tamaqtanuu
 tamasha
@@ -1408,6 +1418,7 @@ tuileuu
 tuilik
 tuilki
 tuin
+tuinde
 tuinek
 tuirlendiruu
 tuirli
@@ -1418,6 +1429,7 @@ tuisinikti
 tuisinuu
 tuisiruu
 tuiski
+tuisten
 tuister
 tuisti
 tuisuu
@@ -1592,6 +1604,7 @@ uzaruu
 uzyn
 ydys
 yghystyruu
+ymyrt
 yntymaq
 yntymaqqa
 yqtjmal
