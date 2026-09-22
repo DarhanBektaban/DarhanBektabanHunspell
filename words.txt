@@ -191,12 +191,15 @@ airtuirli
 aisirese
 aizhem
 aj
+ajaghynda
 ajagndauu
 ajan
 ajaq
 ajaqtan
 ajaqtauu
 ajaz
+ajda
+ajdan
 ajghajlauu
 ajghaq
 ajlyq
@@ -211,6 +214,7 @@ ajtqanyn
 ajtuu
 ajuu
 ajyghuu
+ajyna
 ajyptauu
 ajyryp
 al
@@ -252,6 +256,7 @@ apta
 aptada
 aptasyna
 aq
+aqpan
 aqquu
 aqshyl
 aqtauu
@@ -406,6 +411,7 @@ bastap
 bastauu
 basuu
 basyluu
+basynda
 basyp
 bata
 batqanda
@@ -733,6 +739,7 @@ kuinderi
 kuindiz
 kuini
 kuinnign
+kuintizbe
 kuirese
 kuiresuu
 kuirish
@@ -742,6 +749,7 @@ kuishejuu
 kuishti
 kuituu
 kuiz
+kuizde
 kuoibeje
 kuoibejtuu
 kuoigildir
@@ -750,6 +758,7 @@ kuoignildi
 kuoijlek
 kuoik
 kuoiktem
+kuoiktemde
 kuoil
 kuoildenegn
 kuoilegnke
@@ -799,11 +808,14 @@ maitin
 maj
 majysuu
 maman
+mamyr
+mamyrdygn
 maqsat
 maqsatqa
 maqsatyna
 maqtanuu
 maqtauu
+mauusym
 maz
 mejirban
 mejirimdi
@@ -844,6 +856,7 @@ namys
 namysty
 nan
 nashar
+nauuryz
 nazar
 nazarda
 ne
@@ -930,6 +943,7 @@ qadirin
 qadirli
 qaghazyn
 qaghuu
+qagntar
 qajda
 qajdan
 qajghy
@@ -983,6 +997,7 @@ qaragnghy
 qaraj
 qarama
 qaramastan
+qarasha
 qarastyruu
 qaratpa
 qarauu
@@ -1083,12 +1098,15 @@ quuyp
 qylmauu
 qyluu
 qymyz
+qyrkuijek
+qyrkuijektign
 qyryq
 qyryqynshy
 qys
 qyshqyl
 qysqa
 qysqaruu
+qysta
 qysuu
 qyz
 qyzghylt
@@ -1121,10 +1139,13 @@ sailem
 sairsenbi
 sait
 saittilik
+saiuuir
+saiuuirdign
 saiuule
 sajahat
 sajahattauu
 sajyn
+sajynghy
 saldar
 salmaghyn
 salmaqtauu
@@ -1210,6 +1231,7 @@ sheshe
 sheshim
 sheshimdi
 sheshuu
+shilde
 shiruu
 shje
 shjrek
@@ -1343,6 +1365,7 @@ tamaqtanuu
 tamasha
 tamsanuu
 tamyr
+tamyz
 tanuu
 tanymal
 tanyp
@@ -1713,6 +1736,7 @@ zhauuapkershilikti
 zhauurauu
 zhaz
 zhazalauu
+zhazda
 zhazuu
 zhazyluu
 zhazyp
@@ -1727,6 +1751,7 @@ zhek
 zhekkuoiruu
 zheksenbi
 zhel
+zheltoqsan
 zhem
 zhemshuoip
 zher
@@ -1807,8 +1832,11 @@ zhuuyq
 zhyghyluu
 zhyl
 zhylauu
+zhylda
+zhyldan
 zhylqy
 zhyly
+zhylyna
 zhylynuu
 zhylzhuu
 zhymjuu
