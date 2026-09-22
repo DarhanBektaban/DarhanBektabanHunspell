@@ -179,6 +179,7 @@ aike
 aikeluu
 ailem
 ailemge
+aili
 ailsireuu
 ailsiz
 ain
@@ -224,6 +225,7 @@ aldauu
 aldy
 aldygha
 aldygnghy
+aldyn
 aldynan
 aldynda
 algha
@@ -299,7 +301,11 @@ astynda
 astyq
 asuu
 asyghuu
+asyghys
+asyghysta
+asyghystyq
 asyp
+asyqtyrmagnyz
 asyrauu
 asyruu
 at
@@ -481,6 +487,7 @@ boj
 bojy
 bol
 bolady
+bolashaq
 bolashaqqa
 boluu
 boluuy
@@ -520,6 +527,7 @@ buoiluu
 buoirik
 buruu
 buryn
+burynda
 burys
 buulanuu
 buzuu
@@ -534,6 +542,7 @@ daimin
 daipter
 dairuumeni
 daistuirin
+daiuuir
 daiuulet
 dajyndauu
 dala
@@ -550,6 +559,7 @@ demalys
 demeuu
 dene
 dep
+dereuu
 dertke
 dirildeuu
 dos
@@ -607,6 +617,7 @@ eskertuu
 eskeruu
 eskiruu
 este
+estelikter
 esten
 estiluu
 estuu
@@ -673,7 +684,11 @@ kegnes
 kegnesin
 kegnistikke
 kejbir
+kejde
 kejin
+kejinge
+kejingi
+kejinirek
 kel
 kelesi
 kelgen
@@ -701,7 +716,9 @@ ket
 ketuu
 keuude
 kez
+kezde
 kezdesetin
+kezegn
 kim
 kimdiki
 kimge
@@ -800,6 +817,8 @@ maghynasy
 magndaj
 magnyzdy
 mahabbat
+maigngi
+maigngilik
 mailim
 mailimdeuu
 maimilege
@@ -817,6 +836,7 @@ maqtanuu
 maqtauu
 mauusym
 maz
+me
 mejirban
 mejirimdi
 mektep
@@ -838,6 +858,7 @@ muisheleri
 munda
 mura
 murager
+muraghattar
 muratqa
 muryn
 muz
@@ -927,6 +948,7 @@ panalauu
 paryz
 paryzyn
 pash
+pe
 pen
 pikir
 pikirlesuu
@@ -1261,12 +1283,14 @@ signli
 siz
 sizdign
 sjpauu
+sjrek
 sjyr
 sodan
 soghan
 soghuu
 soghys
 sogn
+sognghy
 sol
 solgha
 sonda
@@ -1331,6 +1355,7 @@ tabjghat
 tabuu
 tabys
 tabysqa
+taghdyr
 taghy
 tagn
 tagndanuu
@@ -1407,6 +1432,7 @@ teri
 terleuu
 tesuu
 tez
+tezdet
 tiguu
 til
 tildik
@@ -1460,6 +1486,7 @@ tuisindiruu
 tuisinikti
 tuisinuu
 tuisiruu
+tuiske
 tuiski
 tuisten
 tuister
@@ -1486,6 +1513,7 @@ tuoizimdilik
 tuoizuu
 tura
 turaqtauu
+turaqty
 turghyzuu
 turuu
 turyp
@@ -1631,6 +1659,8 @@ uuaide
 uuaidesinde
 uuaqyt
 uuaqytqa
+uuaqytsha
+uuaqytta
 uuaqyty
 uuaqytynda
 uzap
@@ -1650,6 +1680,7 @@ ysuu
 yzalanuu
 zagn
 zagndy
+zaman
 zat
 zatty
 zejnet
@@ -1759,6 +1790,7 @@ zherde
 zherden
 zherdi
 zherge
+zhergilikti
 zhete
 zhetekshilik
 zheteleuu
@@ -1829,6 +1861,8 @@ zhurt
 zhurtqa
 zhuuan
 zhuuyq
+zhuuyqta
+zhuuyrda
 zhyghyluu
 zhyl
 zhylauu
