@@ -287,6 +287,8 @@ arty
 artyluu
 artynan
 artynda
+artyq
+aryq
 arystan
 as
 asa
@@ -418,6 +420,7 @@ basqasha
 bastap
 bastauu
 basuu
+basy
 basyluu
 basynda
 basyp
@@ -427,6 +430,7 @@ batuuy
 batyl
 batyldyq
 batyr
+batys
 bauuyr
 bauuyrsaq
 bedel
@@ -620,6 +624,7 @@ esimdikter
 eske
 eskertuu
 eskeruu
+eski
 eskiruu
 este
 estelikter
@@ -902,6 +907,7 @@ ogn
 ognaj
 ognaluu
 ogngha
+ogntuistik
 oj
 ojanuu
 ojlap
@@ -1126,6 +1132,7 @@ quuanyshty
 quuuu
 quuyp
 qylmauu
+qylmys
 qyluu
 qymyz
 qyrkuijek
@@ -1280,6 +1287,7 @@ shygharmauu
 shygharuu
 shyghuu
 shyghuuy
+shyghys
 shygndaluu
 shygndargha
 shyn
@@ -1301,8 +1309,10 @@ soghuu
 soghys
 sogn
 sognghy
+sogny
 sol
 solgha
+soltuistik
 sonda
 sondaj
 sondyqtan
@@ -1407,6 +1417,7 @@ tanyp
 tanystyruu
 tanysuu
 tanytuu
+tapshylyq
 tapsyrys
 tar
 tarauu
@@ -1479,6 +1490,7 @@ toqtatyp
 toqtauu
 toquu
 tosuu
+tozaq
 tozuu
 tuibir
 tuije
@@ -1610,6 +1622,8 @@ uoikinuu
 uoikpe
 uoikpeleuu
 uoikshe
+uoili
+uoilim
 uoilshep
 uoilsheuu
 uoiltiruu
@@ -1703,6 +1717,7 @@ zhadynda
 zhaghal
 zhaghdaj
 zhaghymdy
+zhaghymsyz
 zhaghynda
 zhagna
 zhagnalyq
@@ -1777,6 +1792,7 @@ zhauuap
 zhauuapkershilikti
 zhauurauu
 zhaz
+zhaza
 zhazalauu
 zhazda
 zhazuu
@@ -1862,6 +1878,7 @@ zhuizinshi
 zhuizuu
 zhuldyz
 zhuma
+zhumaq
 zhumsaq
 zhumsauu
 zhumys
