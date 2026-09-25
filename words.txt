@@ -703,6 +703,7 @@ jelik
 jgi
 jis
 jiskeuu
+jissuu
 jjuu
 jt
 jyq
@@ -897,6 +898,7 @@ molaja
 mugndy
 muimkin
 muisheleri
+munaj
 munda
 muoilsher
 muoilsheri
@@ -1148,6 +1150,7 @@ qorytpa
 qorytuu
 qorytyndy
 qoshtasuu
+qospa
 qosuu
 qosyp
 qozghalys
@@ -1218,6 +1221,7 @@ sabalaq
 sabaq
 sabylygnqy
 sabylyp
+sabyn
 sabyr
 sabyrgha
 sabyrly
@@ -1241,6 +1245,7 @@ salmaghyn
 salmaq
 salmaqtauu
 salqyn
+salqyndatqysh
 saluu
 salystyruu
 san
@@ -1361,6 +1366,7 @@ shyntaq
 shyny
 shynyghuu
 shyq
+shyryn
 signli
 siz
 sizdign
@@ -1419,6 +1425,7 @@ suu
 suulanuu
 suuret
 suuretteuu
+suusabyn
 suusyn
 suusyz
 suuyq
@@ -1601,6 +1608,7 @@ tuin
 tuinde
 tuinek
 tuirlendiruu
+tuirleri
 tuirli
 tuirtuu
 tuis
@@ -1654,6 +1662,7 @@ tuuys
 tuuystyq
 tuz
 tuzdy
+tuzdyq
 tygnajuu
 tygndauu
 tyjym
@@ -1852,6 +1861,7 @@ zhalynuu
 zhaman
 zhamandauu
 zhan
+zhanarmaj
 zhanashyr
 zhandanuu
 zhanuuarlar
