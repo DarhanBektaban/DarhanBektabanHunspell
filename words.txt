@@ -61,6 +61,7 @@ adaldyghy
 adaldyq
 adalsuu
 adam
+adamdar
 adamdyq
 adamgershiligi
 adamgershilik
@@ -409,6 +410,7 @@ bajsaldy
 bal
 bala
 balaghattauu
+balalar
 balyq
 baq
 baqylauu
@@ -620,6 +622,8 @@ engizuu
 eni
 enuu
 er
+eresek
+eresektik
 erezhe
 erik
 erin
@@ -713,7 +717,9 @@ jissuu
 jjuu
 jt
 jyq
+kaimeletke
 kairi
+kairilik
 kaisip
 kebuu
 kedej
@@ -927,6 +933,7 @@ mysal
 mysaly
 mysyq
 nairse
+naisil
 naitjzhe
 namys
 namysty
@@ -1096,6 +1103,7 @@ qarauu
 qarshygha
 qarsy
 qarsylyq
+qart
 qaryndas
 qaryndasty
 qashan
@@ -1599,6 +1607,7 @@ toghyz
 toghyzynshy
 toj
 tojtarys
+tolmaghan
 tolyghuu
 tolyghymen
 tolyp
@@ -1666,6 +1675,7 @@ tuoizuu
 tura
 turaqtauu
 turaqty
+turghyndar
 turghyzuu
 turuu
 turyp
@@ -1774,6 +1784,7 @@ uoinuu
 uoirge
 uoirkendeuu
 uoirkendeuuge
+uoirkenjet
 uoirleuu
 uoirmelep
 uoirmeleuu
@@ -1922,6 +1933,7 @@ zhasalghan
 zhasamauu
 zhasaruu
 zhasauu
+zhasuoispirim
 zhasyl
 zhasyrmaj
 zhasyruu
