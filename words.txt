@@ -209,6 +209,7 @@ ajghajlauu
 ajghaq
 ajlyq
 ajnalasynda
+ajnaluu
 ajnymas
 ajqyn
 ajran
@@ -550,7 +551,10 @@ buryn
 burynda
 burys
 burysh
+buu
+buugha
 buulanuu
+buuy
 buzuu
 buzyluu
 da
@@ -826,6 +830,7 @@ kuoilikti
 kuoimek
 kuoimekshi
 kuoimektesuu
+kuoimirqyshqyl
 kuoindiruu
 kuoinuu
 kuoip
@@ -989,6 +994,7 @@ ot
 otan
 otandy
 otbasy
+ottegi
 otyruu
 otyz
 otyzynshy
@@ -1094,6 +1100,7 @@ qaryndas
 qaryndasty
 qashan
 qasiret
+qasjeti
 qasjetin
 qasqyr
 qasterleuu
@@ -1156,6 +1163,7 @@ qorytuu
 qorytyndy
 qoshtasuu
 qospa
+qospalary
 qosuu
 qosyp
 qozghalys
@@ -1438,6 +1446,7 @@ suuretteuu
 suusabyn
 suusyn
 suusyz
+suutegi
 suuy
 suuyq
 syj
@@ -1466,6 +1475,7 @@ syzyqtar
 tabaq
 tabaqsha
 tabjghat
+tabjghj
 tabuu
 tabys
 tabysqa
