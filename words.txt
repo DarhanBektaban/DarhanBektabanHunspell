@@ -911,6 +911,7 @@ merzim
 mezgil
 mindet
 mindetti
+mj
 mojyn
 molaja
 mugndy
@@ -1956,6 +1957,7 @@ zhasaruu
 zhasauu
 zhasuoispirim
 zhasuusha
+zhasuushasy
 zhasyl
 zhasyrmaj
 zhasyruu
@@ -2044,6 +2046,7 @@ zhuigiruu
 zhuijeleuu
 zhuijesi
 zhuijke
+zhuijkesi
 zhuire
 zhuirek
 zhuirekte
