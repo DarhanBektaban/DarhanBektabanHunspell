@@ -308,6 +308,7 @@ ashuulanuu
 ashyghuu
 ashyq
 aspan
+asqazan
 asty
 astynda
 astyq
@@ -695,6 +696,7 @@ inili
 irimshik
 is
 ish
+ishek
 ishinde
 ishinen
 ishki
@@ -1029,6 +1031,7 @@ pishinder
 pisuu
 pyshaq
 pysyqtauu
+qaby
 qabyldauu
 qabyn
 qabynuu
@@ -1176,6 +1179,7 @@ qorquu
 qorqynysh
 qorqytuu
 qorytpa
+qorytpauu
 qorytuu
 qorytyndy
 qoshtasuu
@@ -1404,6 +1408,7 @@ shynyghuu
 shyq
 shyryn
 signli
+silekej
 siz
 sizdign
 sjpauu
@@ -1562,6 +1567,7 @@ tasalanuu
 tastan
 tastauu
 tasuu
+tasy
 tatuu
 tatuulasuu
 tauu
@@ -1630,6 +1636,7 @@ tolyp
 tolyq
 ton
 toptary
+toq
 toqsan
 toqsanynshy
 toqtatpauu
@@ -1811,6 +1818,7 @@ uoirmeleuu
 uoisiruu
 uoisjetin
 uoisuu
+uoit
 uoite
 uoiteuu
 uoitinemin
