@@ -168,6 +168,7 @@ aghyz
 aghyzuu
 aghyzyluu
 aghza
+aghzanygn
 aghzasy
 agn
 agnsauu
@@ -737,6 +738,7 @@ kejin
 kejinge
 kejingi
 kejinirek
+kekiruu
 kel
 kelesi
 kelgen
@@ -1129,6 +1131,7 @@ qazan
 qazaq
 qazaqtardygn
 qazhet
+qazhettilikteri
 qazhyrly
 qazir
 qazirgi
@@ -1399,6 +1402,7 @@ siz
 sizdign
 sjpauu
 sjrek
+sjuu
 sjyr
 sodan
 soghan
@@ -1633,6 +1637,8 @@ tozaq
 tozuu
 tuibir
 tuije
+tuikirik
+tuikiruu
 tuileuu
 tuilik
 tuilki
@@ -1644,6 +1650,8 @@ tuirleri
 tuirli
 tuirtuu
 tuis
+tuishkirik
+tuishkiruu
 tuisindiruu
 tuisinikti
 tuisinuu
@@ -1849,12 +1857,14 @@ yntymaq
 yntymaqqa
 yqtjmal
 yqylas
+yqylyq
 yrys
 ystyq
 ysuu
 yzalanuu
 zagn
 zagndy
+zair
 zaman
 zat
 zatty
@@ -2045,9 +2055,12 @@ zhumsauu
 zhumys
 zhuoineltuu
 zhuoineluu
+zhuoitel
+zhuoiteluu
 zhurnaq
 zhurt
 zhurtqa
+zhutuu
 zhuuan
 zhuuyq
 zhuuyqta
